@@ -10,7 +10,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  background-color: #f5f5f5;
+  background-color: #18d26e;
   color: #4e4e4e;
 }
 
@@ -233,7 +233,7 @@ a:hover {
 }
 
 .socials .ico-circle:hover {
-  background-color: #0078ff;
+  background-color: #18d26e;
   color: #fff;
   box-shadow: 0 0 0 3px #cde1f8;
   transition: all 500ms ease;
@@ -857,7 +857,7 @@ a:hover {
 
 .skill-mf .progress .progress-bar {
   height: 0.7rem;
-  background-color: #0078ff;
+  background-color: #18d26e;
 }
 
 /*--------------------------------------------------------------
@@ -1164,7 +1164,7 @@ a:hover {
 
 .php-email-form .loading {
   display: none;
-  background: #fff;
+  background: #18d26e;
   text-align: center;
   padding: 15px;
 }
@@ -1203,15 +1203,15 @@ a:hover {
 }
 
 .php-email-form button[type=submit] {
-  background: #0078ff;
+  background: #18d26e;
   border: 0;
   padding: 10px 24px;
-  color: #fff;
+  color: #d2d2d2;
   transition: 0.4s;
 }
 
 .php-email-form button[type=submit]:hover {
-  background: #3393ff;
+  background: #18d26e;
 }
 
 @keyframes animate-loading {
