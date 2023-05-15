@@ -98,6 +98,11 @@ a:hover {
     background-attachment: scroll;
   }
 }
+
+.overlay-mf {
+  background-color:#000;
+}
+
 .overlay-mf {
   position: absolute;
   top: 0;
