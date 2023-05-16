@@ -30,7 +30,7 @@ a {
 }
 
 a:hover {
-  color: #0078ff;
+  color: #1e1e1e;
   text-decoration: none;
   transition: all 0.5s ease-in-out;
 }
@@ -187,7 +187,7 @@ a:hover {
   content: "";
   position: absolute;
   height: 3px;
-  background-color: #0078ff;
+  background-color: #18d26e;
   width: 100px;
   bottom: -12px;
 }
@@ -339,7 +339,7 @@ a:hover {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #0078ff;
+  background: #18d26e;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -353,7 +353,7 @@ a:hover {
 }
 
 .back-to-top:hover {
-  background: #298eff;
+  background: #18d26e;
   color: #fff;
 }
 
